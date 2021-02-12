@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577835593 source:c:\users\asus\c projects\tri_mat_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+
